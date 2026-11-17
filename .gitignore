@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+_docx_tmp/
+_final_tmp/
+test.docx
